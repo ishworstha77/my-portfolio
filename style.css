@@ -28,8 +28,12 @@ html,body{
 }
 .column2{
 	background-color:green;
+<<<<<<< HEAD
 	padding: 0px;
+=======
+	padding: 25px;
+>>>>>>> 0e46bba75d143e640c0c27b1bcefbe8a2269d4e8
 }
-
+/* prajwal padding change */
 
 /* ma master baata */
